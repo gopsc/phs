@@ -1,13 +1,3 @@
-```poem
-We were originally free; that is the price we paid for it.
-
-We were meant to be ordinary; that is the responsibility we bore for it.
-
-我们原本是自由的，那是我们为它所付出的代价；
-
-我们本该是平凡的，那是我们为它而承担的责任。
-```
-
 
 ## 为什么要做一个这样的项目
 
